@@ -1,1 +1,1 @@
-# Neural_Networks
+- Preprocessed data for a neural network model, used model-fit-predict pattern to compile and evaluate a binary classification model and optimized the model.
